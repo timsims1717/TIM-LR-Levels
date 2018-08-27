@@ -5,11 +5,9 @@ Rearrange Ice levels, for the final Ice level:
 Change Lava levels to include destroying a device
 
 Replace?:
-Fungus (18):	Replace with farming one if not fun
 Ancient (28):	One or the other (or both if they both are unfun)
 Ancient (29):	One or the other (or both if they both are unfun)
 Reef (39):		If it's fun, keep it
-Dark (48):		Better maze maybe
 Ice (54):		Descend into pit, possibly with bombs
 Lava (58):		Destroy device
 Lava (59):		Escape, maybe keep
