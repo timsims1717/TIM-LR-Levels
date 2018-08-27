@@ -1,0 +1,5 @@
+Todo:
+Replace one level in Ancient (28 or 29) with Ice (51)
+Rearrange Ice levels, for the final Ice level:
+	A pit, that must be decsended
+Change Lava levels to include destroying a device
