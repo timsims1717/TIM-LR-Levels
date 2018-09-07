@@ -1,0 +1,21 @@
+1 Player:
+	Quick
+		tsuria
+		t1
+		sklshare
+		skeepski
+		rayshell
+	Hard
+		Studies1
+		Studies2
+		studies3
+		studies4
+		stelis
+		stanley
+		pksfirst
+	Epic
+		themon
+	Other
+
+2 Player:
+	trees

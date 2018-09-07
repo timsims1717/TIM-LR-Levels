@@ -1,20 +1,61 @@
 Puzzle Sets:
-4 Player Party (collection of 28)
-	American Ninja Warrior
-	Chutes and Ladders
-	Concentration
-	Digmo's Circuit
-	Goalkeepers
-	Send 'Em Over
-	The Arena
-	The Fantastic Race
-	Whiplash
+4 Player Party (9/28)
+	Notes:
+		Collection of 28
+		2 of each world
+	Done:
+		American Ninja Warrior
+		Chutes and Ladders
+		Concentration
+		Digmo's Circuit
+		Goalkeepers
+		Send 'Em Over
+		The Arena
+		The Fantastic Race
+		Whiplash
+	Ideas:
+		Another Circuit
+		Running down a mountain
+		Throwing slime slows down lower track further along
 	
-4 Player 'Individual' Puzzles (collection of 14)
-	A Tap on the Shoulder
-	Catch the Golden Snitch
-	Cyclemaster
-	Rise to the Challenge
+4 Player 'Individual' Puzzles (4/14)
+	Notes:
+		collection of 14
+		one of each world
+	Done:
+		A Tap on the Shoulder
+		Catch the Golden Snitch
+		Cyclemaster
+		Rise to the Challenge
+	Divided Up:
+		4 layer cake
+		4 square
+		4 vertical
+		all in same but can't actually interact
+	Ideas:
+		
 
-Simpler Puzzles for 2, 3, and 4 players (collection of 150 each, identical except for # of players and related)
-Standard 1P Puzzle set (collection of 200 (12*15 + 20) plus 2 sets of secret puzzles)
+Simpler Puzzles for 2, 3, and 4 players (The Big One)
+	Notes:
+		Collection of 144 Puzzles
+		12 of each basic world, 3 of each bonus world
+		Identical except for # of players and related
+		Uses same tool progression
+	Use:
+		Don't Run Down the Stairs (Moss)
+	Done:
+		Moss 6/15 (PP)
+
+Standard 1P Puzzle set (Monster Puzzle Set)
+	Notes:
+		Collection of 200
+		15 of each basic world, 10 or each bonus world
+		Will use singles and small sets from Jason and other sources (with credit)
+	Use:
+		Stairwell (none)
+		DJHeadPhoneNinja (teleporter, snare, bomb, jackhammer, gas, slime, pick)
+		Castle Dracula (phase, liquid, bomb, big bomb, teleporter)
+		1_PLAYER 1 (bomb)
+		1_PLAYER 2 (bomb, gas, teleporter)
+		Pac-man (bomb, teleporter)
+		RayShell (bomb)
