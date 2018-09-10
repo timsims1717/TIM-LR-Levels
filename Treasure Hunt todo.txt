@@ -1,6 +1,3 @@
 Todo:
-Change Lava levels to include destroying a device
-
-Replace?:
 Reef (39):		If it's fun, keep it
-Lava (58):		Destroy device
+Lava (59):      Fix if it's not fun

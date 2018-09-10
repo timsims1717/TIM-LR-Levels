@@ -1,22 +1,23 @@
 Puzzle Sets:
-4 Player Party (9/28)
+4 Player Party (12/28)
 	Notes:
 		Collection of 28
 		2 of each world
 	Done:
-		American Ninja Warrior
+		American Ninja Warrior (Reef)
 		Chutes and Ladders
 		Concentration
-		Digmo's Circuit
-		Goalkeepers
+		Digmo's Circuit (C64)
+		Goalkeepers (Moss)
 		Send 'Em Over
-		The Arena
-		The Fantastic Race
-		Whiplash
+		The Arena (Dark)
+		The Fantastic Race (Lava)
+		Whiplash (Phos)
+        Everyone Gets a Trophy
+        Bedrock Ridge (Fossil)
+        Party Favors
 	Ideas:
-		Another Circuit
-		Running down a mountain
-		Throwing slime slows down lower track further along
+		Running down a mountain (Ice)
 	
 4 Player 'Individual' Puzzles (4/14)
 	Notes:
@@ -28,34 +29,59 @@ Puzzle Sets:
 		Cyclemaster
 		Rise to the Challenge
 	Divided Up:
-		4 layer cake
-		4 square
-		4 vertical
-		all in same but can't actually interact
+		4 layer cake 0
+		4 square 3
+		4 vertical 1
+		all in same 0
 	Ideas:
-		
+		Race to bottom and back to top (vertical)
 
-Simpler Puzzles for 2, 3, and 4 players (The Big One)
+Simpler Puzzles for 2, 3, and 4 players
 	Notes:
-		Collection of 144 Puzzles
+		Collection of 150 Puzzles
 		12 of each basic world, 3 of each bonus world
 		Identical except for # of players and related
 		Uses same tool progression
-	Use:
-		Don't Run Down the Stairs (Moss)
 	Done:
-		Moss 6/15 (PP)
+		Moss 12/12 (234)
+        Fungus 12/12 (2)
+        Ancient 0/12 ()
+        Crystal 0/12 ()
+        Ice 0/12 ()
+        Fossil 0/12 ()
+        Lava 0/12 ()
+        Phosphorus 0/12 ()
+        Dark 0/12 ()
+        Industrial 0/12 ()
+        Astral 0/12 ()
+        Reef 0/12 ()
+        AppleII 0/3 ()
+        C64 0/3 ()
 
 Standard 1P Puzzle set (Monster Puzzle Set)
 	Notes:
 		Collection of 200
-		15 of each basic world, 10 or each bonus world
-		Will use singles and small sets from Jason and other sources (with credit)
-	Use:
-		Stairwell (none)
-		DJHeadPhoneNinja (teleporter, snare, bomb, jackhammer, gas, slime, pick)
-		Castle Dracula (phase, liquid, bomb, big bomb, teleporter)
-		1_PLAYER 1 (bomb)
-		1_PLAYER 2 (bomb, gas, teleporter)
-		Pac-man (bomb, teleporter)
-		RayShell (bomb)
+		10 of each basic world, plus 60 level gauntlet (5 of each world), 10 of each bonus world
+        Will use Single Player versions from 2/3/4
+    Done:
+        Moss 8/10
+        Fungus 10/10
+        Ancient 0/10
+        Crystal 0/10
+        Ice 0/10
+        Fossil 0/10
+        Lava 0/10
+        Phosphorus 0/10
+        Dark 0/10
+        Industrial 0/10
+        Astral 0/10
+        Reef 0/10
+        Gauntlet 0/60
+        AppleII 0/10
+        C64 0/10
+
+Multiplayer Hunts! Like Bill's Hunts!
+
+Metroidvania style
+
+Maze
