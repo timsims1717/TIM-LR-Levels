@@ -44,8 +44,8 @@ Simpler Puzzles for 2, 3, and 4 players
 		Uses same tool progression
 	Done:
 		Moss 12/12 (234)
-        Fungus 12/12 (2)
-        Ancient 0/12 ()
+        Fungus 12/12 (234)
+        Ancient 1/12 ()
         Crystal 0/12 ()
         Ice 0/12 ()
         Fossil 0/12 ()
