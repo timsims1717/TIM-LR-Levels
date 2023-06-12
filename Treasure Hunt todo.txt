@@ -1,3 +1,65 @@
 Todo:
-Reef (39):		If it's fun, keep it
-Lava (59):      Fix if it's not fun
+
+Test:
+1 (Fossil)      Final
+2 (Fossil)      Final
+3 (Fossil)      Monks
+4 (Fossil)      Complete w/deaths
+5 (Bonus)       Rewrite
+6 (Astral)      Complete
+7 (Astral)      Frustration at top
+9 (Astral)      Final
+10 (Bonus)      Final
+11 (Crystal)    Monks
+12 (Crystal)    Final
+13 (Crystal)    Complete w/deaths
+14 (Crystal)    Final
+15 (Bonus)      Final
+16 (Fungus)     Complete, Fun Factor, Frustration
+17 (Fungus)     Complete, Fun Factor, Frustration
+18 (Fungus)     Complete, Fun Factor, Frustration
+19 (Fungus)     Complete w/deaths, Fun Factor, Frustration
+20 (Bonus)      Final
+21 (Industrial) Complete, Fun Factor, Frustration
+22 (Industrial) Complete w/deaths, Fun Factor, Frustration
+23 (Industrial) Complete, Fun Factor, Frustration
+24 (Industrial) Complete, Fun Factor, Frustration
+25 (Bonus)      Final
+26 (Ancient)    Complete, Fun Factor, Frustration
+27 (Ancient)    Complete w/deaths, Fun Factor, Frustration, Monks
+28 (Ancient)    Complete, Fun Factor, Frustration, Monks
+29 (Ancient)    Complete w/deaths, Fun Factor, Frustration, Monks
+30 (Bonus)      Rewrite
+31 (Moss)       Complete, Fun Factor, Frustration, Monks
+32 (Moss)       Complete w/deaths, Fun Factor, Frustration
+33 (Moss)       Complete, Fun Factor, Frustration, Monks
+34 (Moss)       Final
+35 (Bonus)      Final
+36 (Reef)       Complete, Fun Factor, Frustration, Monks
+37 (Reef)       Complete w/deaths, Fun Factor, Frustration
+38 (Reef)       Complete w/deaths, Fun Factor, Frustration
+39 (Reef)       Complete w/deaths, Fun Factor, Frustration
+40 (Bonus)      Rewrite
+41 (Phosphorus) Rewrite
+42 (Phosphorus) Complete, Fun Factor, Frustration, Monks
+43 (Phosphorus) Complete w/deaths, Fun Factor, Frustration, Monks
+44 (Phosphorus) Complete, Fun Factor, Frustration, Monks
+45 (Bonus)      Complete, Fun Factor, Frustration, Monks, SWAP
+46 (Dark)       Complete, Fun Factor, Frustration, Monks
+47 (Dark)       Complete, Fun Factor, Frustration, Monks
+48 (Dark)       Complete, Fun Factor, Frustration, Monks
+49 (Dark)       Complete, Fun Factor, Frustration, Monks
+50 (Bonus)      Complete w/deaths, Fun Factor, Frustration
+51 (Ice)        Complete w/deaths, Fun Factor, Frustration, Monks
+52 (Ice)        Complete, Fun Factor, Frustration, Monks
+53 (Ice)        Complete, Fun Factor, Frustration, Monks
+54 (Ice)        Complete w/deaths, Fun Factor, Frustration, Monks
+55 (Bonus)      Rewrite
+56 (Lava)       Complete, Fun Factor, Frustration, Monks
+57 (Lava)       Complete, Fun Factor, Frustration, Monks
+58 (Lava)       Complete, Fun Factor, Frustration, Monks
+59 (Lava)       Complete w/deaths, Fun Factor, Frustration, Monks
+60 (Fossil)     Complete w/deaths, Fun Factor, Frustration, Monks
+
+Level Ideas:
+Something w/Hidden Monks
